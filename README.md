@@ -6,4 +6,4 @@ This notebook works with training three different regression models (LinearRegre
 
 Performs an EDA in a time series data, create a function to perform feature engineering, and do a manual train/test/validation split.
 
-Uses Optuna for hyperparameter tuning to reduce the RMSE of the models.
+Uses Optuna for hyperparameter tuning to reduce the RMSE of the models and choose the best one.
