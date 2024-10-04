@@ -1,4 +1,4 @@
-# Machine Learning Taxi Orders
+# Machine Learning Regression Taxi Orders
 
 Training and Testing models on time series data to predict taxi orders.
 
